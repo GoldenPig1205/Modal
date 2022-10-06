@@ -414,4 +414,4 @@ async def on_interaction(interaction: discord.Interaction):
                 return await interaction.response.edit_message(content=f"⚠ **해당 모달을 찾을 수 없었습니다..**", view=None)
 
 
-bot.run("OTk2MzA3NDM3OTU3MTUyNzc4.GAr8yN.L45WJFdMJh-PZ_XTQEosZJsIWfmQe5w3-KDm9Q")
+bot.run("your token")
